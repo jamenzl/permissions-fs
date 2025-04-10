@@ -95,14 +95,14 @@ Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write�
 <img src="https://i.imgur.com/mYbddSy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On Client-1, as <someuser>, try to access the accountants folder.  It should fail.
+On Client-1, as <<someuser>>, try to access the accountants folder.  It should fail.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/u1wA5Ez.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log out of Client-1 as <someuser>
+Log out of Client-1 as <<someuser>>
 
 On DC-1, make <someuser> a member of the "ACCOUNTANTS" Security Group
 </p>
